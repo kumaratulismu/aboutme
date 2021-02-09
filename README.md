@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+Project: CleverTap Mobile SDK's(Android, Unity, Xamarin, Cordova, React Native)
 
-You can use the [editor on GitHub](https://github.com/kumaratulismu/aboutme/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+User Base: At CleverTap, we process over 10 billion data points and send over 2 billion communications every day. And, we can deliver over 20 million push notifications in under a minute.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Role: Responsible for technical product design, development, unit testing, code reviews, & product delivery of features & project roadmap items.
 
-### Markdown
+Tech Stack: Android, Java, Kotlin, MVVM, SOLID, JUnit, TDD, Javascript, React Native, Xamarin, C#
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contributions:
+* Worked on dynamic delivery of Application Config feature(similar to Firebase's Remote Config)
+* Implemented Unity SDK support
+* Implemented Xamarin SDK support
+* Worked on refactoring of CleverTap code base with TDD & JUnit test cases.
+* Worked on Cordova, Ionic, React Native platforms.
+* Worked on critical bug fixes, ANR's.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Project: Times of India, Bombay Times, Mumbai Mirror, Times City, E-Times.
 
-1. Numbered
-2. List
+User Base: 2.5 Million downloads, up to 1 million daily active users
 
-**Bold** and _Italic_ and `Code` text
+Role: Single Point of Contact for Times app. Responsible for end to end product design, development, unit testing, code reviews, & product delivery of features & project roadmap.
 
-[Link](url) and ![Image](src)
-```
+Tech Stack: Android, Java, Kotlin, MVVM
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Contributions:
+* Redesigned underlying networking and database frameworks with significant performance improvements
+* Integrated Single Sign On
+* Integrated various analytics-  Google Analytics, Google tag manager, Firebase, Coke etc.
+* Integrated Various ads- Google Ads, Facebook Ads, Columbia ads
+* Performance improvements- Crashes, ANR's, GPU overdraws, memory leaks, Frozen frames, Battery Consumption etc.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumaratulismu/aboutme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Project: Email Active Sync
+
+Role: Involved with the design, development and commercialisation of mobile email application features.
+Tech Stack: Android, Core Java.
+
+Contributions:
+* Sending Automatic OOO(out of office) mail from Client Side.
+* Marshmallow and Lollipop application upgrades for flagship Samsung phones.
+
+
+
+
+Project: Email Active Sync
+
+Role: Involved with the design, development and commercialisation of mobile email application features.
+Tech Stack: Android, Core Java.
+
+Contributions:
+* Auto Setup of Email using Auto-discover for exchange
+* Parallelising the email attachment downloads
+* Client side blacklisting of sender
+* Integration of Social Networking Sites Sign-on using OAuth.
+* Applying IRM on Client Side.
+
+
+
+Project: Power Managed Healthcare System (PMHS)
+Client: CIGNA
+Role:  Application development and unit testing.
+Tech Stack: COBOL, AS400, DB2.
+
+Contributions: 
+* New Project Features. 
+* Created test data generation tool to help the team with unit testing.
